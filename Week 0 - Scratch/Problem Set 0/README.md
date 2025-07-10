@@ -1,6 +1,8 @@
 This Assignment is for Harvard CS50X Week 0 Problem Set 0
 Starting from Scratch
 
+Link: https://scratch.mit.edu/projects/1195923534
+
 Details of Assignment:
 It’s time to choose your own adventure! Your assignment, quite simply, is to implement in Scratch.
 
