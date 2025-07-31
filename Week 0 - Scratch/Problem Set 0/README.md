@@ -1,5 +1,4 @@
-This Assignment is for Harvard CS50X Week 0 Problem Set 0
-Starting from Scratch
+This Assignment is for Harvard CS50X Week 0 Scratch - Problem Set 0
 
 Link: https://scratch.mit.edu/projects/1195923534
 
